@@ -1,0 +1,63 @@
+.navegation{
+  background: yellowgreen;
+  text-align: right;
+
+  padding-top:15px;
+  padding-right: 100px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  margin: 0;
+
+  
+  
+}
+
+.link1{
+  text-decoration: none;
+  padding: 10px;
+}
+.link2{
+  text-decoration: none;
+  padding: 10px;
+}
+.link3{
+  text-decoration: none;
+  padding: 10px;
+}
+.link4{
+  text-decoration: none;
+}
+
+
+.home{
+  background: cornflowerblue;
+text-transform: uppercase;
+color:white;
+
+  
+  width: 100%;
+}
+.contato{
+  background:yellowgreen;
+}
+.servicos{
+  background:palegreen;
+}
+.section-home {
+font-display: initial;
+}
+
+#conteudo-principal{
+  background: tomato;
+}
+#conteudo-secundario{
+  background:violet;
+}
+#rodape{
+
+}
+
+.blog h1{
+  text-align: center;
+  background: bisque;
+}
