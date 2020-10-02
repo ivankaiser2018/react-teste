@@ -1,6 +1,10 @@
 const Routes = {
     HOME: '/home',
-    LOGIN: '/login'
+    LOGIN:'/user/login',
+    CADASTRO:'/user/cadastro',
+    SERVICOS:'/servicos',
+    BLOG:'/blog',
+    CONTATO:'/contato'
 
 }
 
